@@ -977,7 +977,7 @@ PlayerSettings:
   syncCapabilities: 0
   platformCapabilities:
     WindowsStoreApps:
-      EnterpriseAuthentication: False
+      CodeGeneration: False
       OfflineMapsManagement: False
       HumanInterfaceDevice: False
       Location: False
@@ -1012,8 +1012,8 @@ PlayerSettings:
       Contacts: False
       Proximity: False
       InternetClient: True
-      CodeGeneration: False
       BackgroundMediaPlayback: False
+      EnterpriseAuthentication: False
   metroTargetDeviceFamilies:
     Desktop: False
     Holographic: False
@@ -1079,7 +1079,7 @@ PlayerSettings:
   cloudProjectId: 19315446-d66a-4d9e-9dc7-b2646264021d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: VRTAM-AR-project
   organizationId: arunnesar083
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
